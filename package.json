@@ -1,0 +1,23 @@
+{
+  "name": "mermaid-example",
+  "version": "1.0.0",
+  "description": "mermaidjs example project running by parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc-server": "parcel ./documentation/sequence-diagram.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temeke/mermaid-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temeke/mermaid-example/issues"
+  },
+  "homepage": "https://github.com/temeke/mermaid-example#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
